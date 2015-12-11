@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ingreso de Registros</string>
+
+    <string name="nombre">Escríba su Nombre</string>
+    <string name="apellido">Escríba su Apellido</string>
+    <string name="guardar">Ingresar Registro</string>
+    <string name="hintnapellido">Ingrese Nuevo Apellido</string>
+    <string name="hintnnombre">Ingrese Nuevo Nombre</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main2">Buscar registros</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="hintbuscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="lista">Lista</string>
+</resources>
